@@ -17,8 +17,11 @@ Les dejo mi [Linkedin] por si quisieran contactarme por ese medio.
 
 Disfruto el aire libre , el deporte , me gusta viajar e ir a lugares de playa preferentemente
 
+![Image text](https://github.com/pablobrunstein/Images/commit/9eab2393d4356168980ec0c5b5898b1d3287491c#commitcomment-124598282)
 
 [Linkedin]: https://www.linkedin.com/in/pablobrunstein/
+
+
 
 - Escriban presentación sobre ustedes.
 - Suban la presentación a Git.
