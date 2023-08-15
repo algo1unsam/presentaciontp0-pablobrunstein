@@ -1,5 +1,25 @@
 # Presentación
 
+Hola,como estan?
+Les cuento algo sobre mi.
+
+Soy tecnico electronico, pero hace ya varios años no me dedico a eso.
+Actualmente soy Project Manager en una empresa de Tecnologia.
+Trabajo con soluciones de:
+
+* Biometría
+
+* Identidad digital
+
+* Surveillance
+
+Les dejo mi [Linkedin] por si quisieran contactarme por ese medio.
+
+Disfruto el aire libre , el deporte , me gusta viajar e ir a lugares de playa preferentemente
+
+
+[Linkedin]: https://www.linkedin.com/in/pablobrunstein/
+
 - Escriban presentación sobre ustedes.
 - Suban la presentación a Git.
 - Suban una foto.
